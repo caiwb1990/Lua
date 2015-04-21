@@ -1,0 +1,6 @@
+local function main()
+  local msg = 'Hello lua';
+  
+
+end
+main()
