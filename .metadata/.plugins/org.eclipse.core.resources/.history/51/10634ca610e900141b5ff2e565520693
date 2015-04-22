@@ -11,8 +11,6 @@ local function main()
   print(point["x"]) --下标方式访问
   print(point.y)  --字典方式访问
   
-  print("===================")
-  
   --type函数
   print(type("Hello lua"))
   print(type(100))
@@ -21,17 +19,8 @@ local function main()
   print(type(nil))
   print(type(print))
   print(type({x = 10,y = 20}))
-  print(type(point))  
-
-  print("===================")  
+    
   
   
-  
-  
-  print("===================")  
-  print("===================")  
-  print("===================")  
-  print("===================")  
-  print("===================")  
 end
 main()
