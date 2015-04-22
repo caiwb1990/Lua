@@ -57,11 +57,7 @@ local function main()
     print("value1 ~= value2")
   end
   
-  if (value1 < value2) or (value1 == 1) then
-    print("或运算为真")
-  else
-    print("或运算为假")
-  end
+  
   
   
   print("===================")  
