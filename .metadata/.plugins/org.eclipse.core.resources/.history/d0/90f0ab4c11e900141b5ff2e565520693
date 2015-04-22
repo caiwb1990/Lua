@@ -40,13 +40,8 @@ local function main()
   print(tostring(tb)) --nil
   
   
-  print(tonumber("10"))   --10
-  print(tonumber("AF",16)) --175
-  
-  print(tonumber("red")) --nil
-  print(tonumber("123red")) --nil
-  print(tonumber(true)) --nil
-  print(tonumber({x = 19,y =20})) --nil
+  print(tonumber("10"))
+  print(tonumber("AF",16))
   
   
   print("===================")  

@@ -37,16 +37,8 @@ local function main()
   print(tostring(num3)) --10.91
   
   local tb = tonumber({x = 10,y = 20});
-  print(tostring(tb)) --nil
+  print(tostring(tb))
   
-  
-  print(tonumber("10"))   --10
-  print(tonumber("AF",16)) --175
-  
-  print(tonumber("red")) --nil
-  print(tonumber("123red")) --nil
-  print(tonumber(true)) --nil
-  print(tonumber({x = 19,y =20})) --nil
   
   
   print("===================")  
