@@ -6,12 +6,14 @@ local function main()
   
   --变量赋值之前 值为nil
   
+  print("===================表类型")
+  
   --表类型
   local point = {x = 10,y = 20}
   print(point["x"]) --下标方式访问
   print(point.y)  --字典方式访问
   
-  print("===================")
+  print("===================Type")
   
   --type函数
   print(type("Hello lua"))
@@ -23,8 +25,8 @@ local function main()
   print(type({x = 10,y = 20}))
   print(type(point))  
 
-  print("===================")  
-  
+  print("===================类型转换")  
+ 
   --类型转换
   local found = false
   print(tostring(found))
@@ -49,7 +51,7 @@ local function main()
   print(tonumber({x = 19,y =20})) --nil
   
   
-  print("===================")  
+  print("===================逻辑运算")  
   
   value1 = 1
   value2 = 2
@@ -64,7 +66,7 @@ local function main()
   end
   
   
-  print("===================") 
+  print("===================循环") 
   --while 
   local i = 0
   while i * i < 1000000 do
@@ -90,8 +92,23 @@ local function main()
     print(i ..":".. v)
   end
   
+  print("===================跳转语句")
+  --break
+  for i= 1,10 do
+    if i == 3 then
+      break;
+    end
+    print(" .... " ..i);
+  end
+  
+  --return
+    
   print("===================")  
   print("===================")  
+  print("===================")  
+  print("===================")  
+  print("===================")  
+  
   print("===================")  
 end
 main()
