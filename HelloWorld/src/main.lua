@@ -117,11 +117,25 @@ local function main()
   print("std2 age:"..stu2["age"])
   
   --for
-  for i,v in ipairs(stu1) do
+  for k,v in pairs(stu1) do
     print(k.. ":" .. v)
   end
   
-  print("===================")  
+  print("===================数组")  
+  students = {"aa", "bb", "cc"}
+
+  for i,v in ipairs(students) do
+    print(i ..":" ..v )
+  end
+
+  for k,v in pairs(students) do
+    print(k ..":" ..v )
+  end
+  
+  for i = 1, #students do
+    print(i.. ":".. students[i])
+  end
+  
   print("===================")  
   print("===================")  
   print("===================")  
