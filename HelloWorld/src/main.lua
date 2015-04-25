@@ -256,9 +256,25 @@ local function main()
   print("rect 10 15 area:".. getArea1("rect")(10 ,15) )
   print("tri 10 13 area:".. getArea1("tri")(10 ,13) )
   
+  print("===================面向对象")
+  Student = {id= 100,name = "Tony"}
   
+  function Student:toString()
+    return "Name:".. self.name .." id:" ..self.id
+  end
   
-  print("===================")  
+  function Student:create(o)
+    o = o or{}
+    setmetatable(o,self)
+    self.__index = self
+    return o
+  end
+  
+  student1 = Student:create({id =200,name="Hello"})
+  student2 = Student:create({id =300,name="World"})
+  print(student1:toString())
+  print(student2:toString())
+    
   print("===================") 
   print("===================") 
   print("===================") 
