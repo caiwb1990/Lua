@@ -5,7 +5,8 @@ cc.FileUtils:getInstance():addSearchPath("res")
 -- CC_USE_DEPRECATED_API = true
 require "cocos.init"
 
--- cclog
+-- cclog  
+-- print可传nil
 local cclog = function(...)
     print(string.format(...))
 end
