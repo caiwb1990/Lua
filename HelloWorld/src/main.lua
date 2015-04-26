@@ -36,7 +36,7 @@ local function main()
   local num3 = 10.01
   print(tostring(num1)) --10
   print(tostring(num2)) --10
-  print(tostring(num3)) --10.91
+  print(tostring(num3)) --10.01
   
   local tb = tonumber({x = 10,y = 20});
   print(tostring(tb)) --nil
@@ -169,8 +169,7 @@ local function main()
   print("===================function")
   
   function rectangleArea(width, height)
-    local area = width * height
-    return area
+    return width * height
   end
   print("calc area (20 * 15) : " .. rectangleArea(20,15))
   
