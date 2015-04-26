@@ -166,33 +166,7 @@ local function main()
   print(string.format("%o, %x ,%X",10,10,10))
   
    
-  print("===================function")
   
-  function rectangleArea(width, height)
-    return width * height
-  end
-  print("calc area (20 * 15) : " .. rectangleArea(20,15))
-  
-  --变量作用域
-  local global = 1
-  function f()
-    local local1 = 2
-    global = global +1
-    return global
-  end
-  
-  f()
-  print(global) --2
-  print(local1) --nil
-  
-  --多重返回值
-  function calcRectanle(width,height)
-    local area = width * height
-    local perimeter = (width + height) *2
-    
-    return area,perimeter
-  end
-  print(calcRectanle(20,15))
     
   print("===================闭包函数") --语言支持闭包的前提是：1.支持函数嵌套，2.能够将函数作为参数或返回值传递 
   --嵌套函数
