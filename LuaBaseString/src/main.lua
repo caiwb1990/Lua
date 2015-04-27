@@ -8,6 +8,7 @@ print("===================String")
   local s3 = "Hello" .. "Lua"
   local slen = string.len(s1)
   
+ 
   --sub str
   print(string.sub(s1,1,3))
   print(string.sub(s1,2,-2)) --负数表示倒数索引
@@ -28,6 +29,9 @@ print("===================String")
   print(string.format("%f, %g,%G",3.14,math.pi,math.pi))
   print(string.format("%d , %i , %u",10,10,-10))
   print(string.format("%o, %x ,%X",10,10,10))
+  
+  --replace
+  print(string.gsub(s1,"Lua","World"))
 
 end
 main()
