@@ -65,6 +65,13 @@ local function main()
   print("rect 10 15 area:".. getArea1("rect")(10 ,15) )
   print("tri 10 13 area:".. getArea1("tri")(10 ,13) )
   
+  print("=========")
+  a = {p = print}
+  a.p("Hello world") -->Hello World
+  print = math.sin 
+  a.p(print(1))  --> sin(1)
+  sin = a.p  
+  sin(10,20)   -->print(10,20)
 
 end
 main()
