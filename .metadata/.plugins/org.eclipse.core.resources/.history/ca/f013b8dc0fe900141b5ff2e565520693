@@ -1,9 +1,0 @@
-local function main()
-  local msg = 'Hello lua!'
-  print(msg)
-    
-  NUM = 100 --常量和变量没啥区别，就是命名要求大写
-
-  
-end
-main()
