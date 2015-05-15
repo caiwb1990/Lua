@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_NCLbcehDEeSyqvF1NOlaqg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_NCLbcuhDEeSyqvF1NOlaqg" bindingContexts="_NCLbeOhDEeSyqvF1NOlaqg">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseArray/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseArray/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseBibao/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseBibao/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseFunction/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseFunction/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseFor/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseFor/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseTypeBiao/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseTypeBiao/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseLogic/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseLogic/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseString/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseString/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseOpp/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseOpp/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;HelloWorld/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/HelloWorld/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseFor/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseFor/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseArray/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseArray/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseBibao/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseBibao/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseFunction/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseFunction/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseTypeBiao/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseTypeBiao/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseLogic/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseLogic/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseString/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseString/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;LuaBaseOpp/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/LuaBaseOpp/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; tooltip=&quot;HelloWorld/src/main.lua&quot;>&#xA;&lt;persistable path=&quot;/HelloWorld/src/main.lua&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>ModelMigrationProcessor.001</tags>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_NCLbcuhDEeSyqvF1NOlaqg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_NXp8MuhDEeSyqvF1NOlaqg" label="%trimmedwindow.label.eclipseSDK" x="42" y="23" width="1167" height="743">
@@ -153,7 +153,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_NcD7EOhDEeSyqvF1NOlaqg" elementId="org.eclipse.ui.editorss" selectedElement="_NcD7EehDEeSyqvF1NOlaqg">
-      <children xsi:type="basic:PartStack" xmi:id="_NcD7EehDEeSyqvF1NOlaqg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_cosKIPKzEeSidsQj-m1sAA">
+      <children xsi:type="basic:PartStack" xmi:id="_NcD7EehDEeSyqvF1NOlaqg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_CEUKsPP_EeS3rbWC_mIbGg">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
@@ -165,7 +165,13 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_cosKIPKzEeSidsQj-m1sAA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="main" iconURI="platform:/plugin/org.eclipse.koneki.ldt.ui/icons/obj16/lua-logo.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; partName=&quot;main&quot; title=&quot;main&quot; tooltip=&quot;LuaBaseArray/src/main.lua&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/LuaBaseArray/src/main.lua&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;224&quot; selectionOffset=&quot;60&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; partName=&quot;main&quot; title=&quot;main&quot; tooltip=&quot;LuaBaseArray/src/main.lua&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/LuaBaseArray/src/main.lua&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;289&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.koneki.ldt.ui.editor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_CEUKsPP_EeS3rbWC_mIbGg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="main" iconURI="platform:/plugin/org.eclipse.koneki.ldt.ui/icons/obj16/lua-logo.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.koneki.ldt.ui.editor&quot; name=&quot;main.lua&quot; partName=&quot;main&quot; title=&quot;main&quot; tooltip=&quot;LuaBaseFor/src/main.lua&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/LuaBaseFor/src/main.lua&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;439&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.koneki.ldt.ui.editor</tags>
           <tags>removeOnHide</tags>
@@ -289,7 +295,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NY2PAOhDEeSyqvF1NOlaqg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_G3gAoPKxEeSidsQj-m1sAA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_NC-svehDEeSyqvF1NOlaqg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_55KHIPP-EeS3rbWC_mIbGg" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_NC-svehDEeSyqvF1NOlaqg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NY2PAehDEeSyqvF1NOlaqg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -310,7 +316,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NY3dIOhDEeSyqvF1NOlaqg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_G3ojgPKxEeSidsQj-m1sAA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_NC8QcOhDEeSyqvF1NOlaqg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_55Rb4PP-EeS3rbWC_mIbGg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_NC8QcOhDEeSyqvF1NOlaqg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_NY3dIehDEeSyqvF1NOlaqg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -503,7 +509,7 @@
     <bindings xmi:id="_NEKYcuhDEeSyqvF1NOlaqg" keySequence="ALT+COMMAND+Q Q" command="_NDBJAehDEeSyqvF1NOlaqg">
       <tags>platform:cocoa</tags>
     </bindings>
-    <bindings xmi:id="_GWoIMfKxEeSidsQj-m1sAA" keySequence="COMMAND+CTRL+F" command="_NEiy8ehDEeSyqvF1NOlaqg"/>
+    <bindings xmi:id="_5aJ28PP-EeS3rbWC_mIbGg" keySequence="COMMAND+CTRL+F" command="_NEiy8ehDEeSyqvF1NOlaqg"/>
   </bindingTables>
   <bindingTables xmi:id="_ND5SsOhDEeSyqvF1NOlaqg" elementId="org.eclipse.debug.ui.debugging" bindingContext="_NDH2q-hDEeSyqvF1NOlaqg">
     <bindings xmi:id="_ND5SsehDEeSyqvF1NOlaqg" keySequence="F5" command="_NC-syOhDEeSyqvF1NOlaqg"/>
@@ -648,7 +654,7 @@
     <bindings xmi:id="_NEE44uhDEeSyqvF1NOlaqg" keySequence="COMMAND+SHIFT+I" command="_NDBI-OhDEeSyqvF1NOlaqg"/>
   </bindingTables>
   <bindingTables xmi:id="_NEjaAOhDEeSyqvF1NOlaqg" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_NCLbe-hDEeSyqvF1NOlaqg">
-    <bindings xmi:id="_GWoIMvKxEeSidsQj-m1sAA" keySequence="M1+W" command="_NEiy9uhDEeSyqvF1NOlaqg"/>
+    <bindings xmi:id="_5aKeAPP-EeS3rbWC_mIbGg" keySequence="M1+W" command="_NEiy9uhDEeSyqvF1NOlaqg"/>
   </bindingTables>
   <bindingTables xmi:id="_NcIMgehDEeSyqvF1NOlaqg" bindingContext="_NcIMgOhDEeSyqvF1NOlaqg"/>
   <bindingTables xmi:id="_NcIMg-hDEeSyqvF1NOlaqg" bindingContext="_NcIMguhDEeSyqvF1NOlaqg"/>
